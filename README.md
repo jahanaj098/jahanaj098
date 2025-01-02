@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm jahanaj098</h1>
-<h3 align="center">"I came, I saw, I report 🐛🔍"</h3>
+<h3 align="center">I came, I saw, I report 🐛🔍</h3>
 
 <p align="left"> <a href="https://twitter.com/jahanaj707" target="blank"><img src="https://img.shields.io/twitter/follow/jahanaj707?logo=twitter&style=for-the-badge" alt="jahanaj707" /></a> </p>
 
