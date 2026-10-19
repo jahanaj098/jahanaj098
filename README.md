@@ -7,7 +7,7 @@
 </a>
 
 <p>
-  <a href="https://twitter.com/jahanaj707">Twitter</a> ·
+  <a href="https://twitter.com/jahanaj098">Twitter</a> ·
   <a href="https://buymeacoffee.com/jahanaj098">Buy me a coffee</a>
 </p>
 
